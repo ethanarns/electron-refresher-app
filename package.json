@@ -1,0 +1,14 @@
+{
+  "name": "electron-refresher-app",
+  "version": "1.0.0",
+  "description": "Blockland",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Hartman",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.3.0"
+  }
+}
